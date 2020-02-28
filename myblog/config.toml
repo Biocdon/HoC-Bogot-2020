@@ -1,5 +1,5 @@
 title = "Team sin vida"
-baseURL = "git remote add origin https://github.com/<github-myblog>/<HoC-Bogotá-2020>.git"
+baseURL = "https://master.da56qpc45q9n4.amplifyapp.com "
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
